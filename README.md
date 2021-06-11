@@ -48,7 +48,7 @@ ProxyPassMatch ^/(.*\.php(/.*)?)$ fcgi://geekshubs_php74:9000/var/www/html/publi
 ```
 
 ## :mag_right: Change log
-Please see <a href="https://github.com/GeeksHubs/Geekshubs-php-fpm74/blob/master/changelog.md">CHANGELOG</a> for more information what has changed recently.
+Please see <a href="https://github.com/GeeksHubs/Geekshubs-php-fpm80-nginx/blob/master/changelog.md">CHANGELOG</a> for more information what has changed recently.
 
 
 
@@ -57,6 +57,6 @@ Feel free to make as many pull requests as you think fit, because there are so m
 
 Here is a guide if you want to take a look(https://github.com/GeeksHubsAcademy/2020-geekshubs-convenio/blob/master/contributing.md)
 
-If you find a bug, let us know <a href="https://github.com/GeeksHubs/Geekshubs-php-fpm74/issues">here</a> .
+If you find a bug, let us know <a href="https://github.com/GeeksHubs/Geekshubs-php-fpm80-nginx/issues">here</a> .
 
-If you request a new  <a href ="https://github.com/GeeksHubs/Geekshubs-php-fpm74/issues"> feature</a>.
+If you request a new  <a href ="https://github.com/GeeksHubs/Geekshubs-php-fpm80-nginx/issues"> feature</a>.
