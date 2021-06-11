@@ -1,0 +1,12 @@
+version: '3.4'
+services: 
+    api:
+        image: 'geekshubs-php-fpm80'
+        build:
+            context: .
+            target: geekshubs-php-fpm80
+        container_name: 'geekshubs-php-fpm80'
+        ports: 
+            - "80:80"
+        volumes:
+            - ./app:/var/www
