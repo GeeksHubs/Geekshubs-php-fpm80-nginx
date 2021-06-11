@@ -12,10 +12,3 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Removed.
 
-## 2020-06-07
-### Added.
-
-### Changed.
-- Modify max post and file size send to 150M
-
-### Removed.
